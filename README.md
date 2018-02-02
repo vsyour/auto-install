@@ -4,7 +4,7 @@
 
 
 [我的博客](http://www.xd10086.com)  
-\<br> 
+\<br /> 
 1.kangle一键安装脚本\<br> 
 2.ss一键安装脚本 \<br> 
 3.ssr一键安装脚本 \<br> 
