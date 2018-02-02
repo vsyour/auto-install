@@ -15,7 +15,8 @@
 ****
 [我的博客](http://www.xd10086.com)  
 
-### 1.kangle一键安装脚本
+[1.kangle一键安装脚本]:https://i.imgur.com/18j9Hmr.jpg "kangle一键安装脚本"
+
 ### 2.ss一键安装脚本 
 ### 3.ssr一键安装脚本 
 ### 4.owncloud一键安装脚本 
