@@ -1,6 +1,7 @@
 安装包list
 ====
-精心整理安装盘脚本，用心打造一键安装\<br> 
+
+### 精心整理安装盘脚本，用心打造一键安装
 
 
 
@@ -15,7 +16,10 @@
 ****
 [我的博客](http://www.xd10086.com)  
 
-[1.kangle一键安装脚本]:https://i.imgur.com/18j9Hmr.jpg "kangle一键安装脚本"
+--------------------------------
+[kangle一键安装脚本]:https://i.imgur.com/18j9Hmr.jpg "kangle一键安装脚本"
+*![](https://i.imgur.com/18j9Hmr.jpg)
+
 
 ### 2.ss一键安装脚本 
 ### 3.ssr一键安装脚本 
