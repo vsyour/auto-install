@@ -17,8 +17,9 @@
 [我的博客](http://www.xd10086.com)  
 
 --------------------------------
-[kangle一键安装脚本]:https://i.imgur.com/18j9Hmr.jpg "kangle一键安装脚本"
-*![](https://i.imgur.com/18j9Hmr.jpg)
+
+
+![](https://i.imgur.com/18j9Hmr.jpg) "kangle一键安装脚本" http://kangle.odata.cc
 
 
 ### 2.ss一键安装脚本 
